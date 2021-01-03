@@ -2,7 +2,7 @@ package warmup1;
 
 public class SleepIn {
 
-    public boolean sleepIn(boolean weekday, boolean vacation) {
+    public static boolean sleepIn(boolean weekday, boolean vacation) {
 
         //return data: boolean
         //param: boolean
@@ -12,6 +12,11 @@ public class SleepIn {
             return true;
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(sleepIn(true, true));
     }
 
 }
