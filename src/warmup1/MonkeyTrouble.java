@@ -2,7 +2,7 @@ package warmup1;
 
 public class MonkeyTrouble {
 
-    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+    public static boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
 
         //return data: boolean
         //param: boolean
@@ -17,6 +17,11 @@ public class MonkeyTrouble {
 
         return false;
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(monkeyTrouble(true, false));
     }
 
 }
