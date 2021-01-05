@@ -2,7 +2,7 @@ package warmup1;
 
 public class PosNeg {
 
-    public boolean posNeg(int a, int b, boolean negative) {
+    public static boolean posNeg(int a, int b, boolean negative) {
 
         //return data: boolean
         //param: int, boolean
@@ -16,7 +16,9 @@ public class PosNeg {
         return false;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(posNeg(6, 5, false));
+    }
 
 }
 
