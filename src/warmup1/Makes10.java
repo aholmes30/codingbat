@@ -2,7 +2,7 @@ package warmup1;
 
 public class Makes10 {
 
-    public boolean makes10(int a, int b) {
+    public static boolean makes10(int a, int b) {
 
         //return data: boolean
         //param: int
@@ -16,7 +16,10 @@ public class Makes10 {
         return false;
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(makes10(1, 19));
+    }
 }
 
 /*

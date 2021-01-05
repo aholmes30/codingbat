@@ -54,9 +54,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ParrotTrouble">
+  <component name="RunManager" selected="Application.Makes10">
     <configuration name="Diff21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.Diff21" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.Makes10" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.SumDouble" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Makes10" />
         <item itemvalue="Application.ParrotTrouble" />
         <item itemvalue="Application.Diff21" />
         <item itemvalue="Application.MonkeyTrouble" />
         <item itemvalue="Application.SleepIn" />
-        <item itemvalue="Application.SumDouble" />
       </list>
     </recent_temporary>
   </component>
