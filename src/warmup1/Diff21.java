@@ -2,7 +2,7 @@ package warmup1;
 
 public class Diff21 {
 
-    public int diff21(int n) {
+    public static int diff21(int n) {
 
         //return data: int
         //param: int
@@ -13,6 +13,11 @@ public class Diff21 {
             return difference * 2;
         }
         return difference;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(diff21(5));
     }
 
 }
