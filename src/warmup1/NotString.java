@@ -1,8 +1,8 @@
 package warmup1;
 
-public class notString {
+public class NotString {
 
-    public String notString(String str) {
+    public static String notString(String str) {
         // return data: String
         // param: String
 
@@ -12,6 +12,11 @@ public class notString {
             return str;
         }
         return "not " + str;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(notString("fruit"));
     }
 
 
