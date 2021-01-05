@@ -1,14 +1,19 @@
 package warmup1;
 
-public class missingChar {
+public class MissingChar {
 
-    public String missingChar(String str, int n) {
+    public static String missingChar(String str, int n) {
         // return data: String
         // param: str, int
 
         return str.substring(0, n) + str.substring(n+1);
         // start at 0, then go to n and ADD from n to + 1
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(missingChar("banana", 2));
     }
 
 }

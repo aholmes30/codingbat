@@ -54,16 +54,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NotString">
-    <configuration name="Diff21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Diff21" />
+  <component name="RunManager" selected="Application.MissingChar">
+    <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.Makes10" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Makes10" />
+    <configuration name="MissingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.MissingChar" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingChar" />
         <item itemvalue="Application.NotString" />
         <item itemvalue="Application.PosNeg" />
         <item itemvalue="Application.Makes10" />
         <item itemvalue="Application.ParrotTrouble" />
-        <item itemvalue="Application.Diff21" />
       </list>
     </recent_temporary>
   </component>
