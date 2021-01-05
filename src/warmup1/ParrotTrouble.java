@@ -2,7 +2,7 @@ package warmup1;
 
 public class ParrotTrouble {
 
-    public boolean parrotTrouble(boolean talking, int hour) {
+    public static boolean parrotTrouble(boolean talking, int hour) {
 
         //return data: boolean
         //param: boolean, int
@@ -18,6 +18,10 @@ public class ParrotTrouble {
     }
 
 
+    public static void main(String[] args) {
+
+        System.out.println(parrotTrouble(true, 12));
+    }
 
 }
 

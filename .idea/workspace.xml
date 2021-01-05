@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Diff21">
+  <component name="RunManager" selected="Application.ParrotTrouble">
     <configuration name="Diff21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.Diff21" />
       <module name="codingbat" />
@@ -62,6 +62,13 @@
     </configuration>
     <configuration name="MonkeyTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.MonkeyTrouble" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParrotTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.ParrotTrouble" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParrotTrouble" />
         <item itemvalue="Application.Diff21" />
         <item itemvalue="Application.MonkeyTrouble" />
         <item itemvalue="Application.SleepIn" />
