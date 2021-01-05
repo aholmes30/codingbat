@@ -2,7 +2,7 @@ package warmup1;
 
 public class NearHundred {
 
-    public boolean nearHundred(int n) {
+    public static boolean nearHundred(int n) {
 
         //return data: boolean
         //param: int
@@ -11,6 +11,10 @@ public class NearHundred {
             return true;
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(nearHundred(156));
     }
 
 }
