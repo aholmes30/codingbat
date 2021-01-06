@@ -2,7 +2,7 @@ package warmup1;
 
 public class BackAround {
 
-    public String backAround(String str) {
+    public static String backAround(String str) {
 
         //return data: String
         //param: String
@@ -14,7 +14,9 @@ public class BackAround {
         return result;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(backAround("doggo"));
+    }
 
 }
 
