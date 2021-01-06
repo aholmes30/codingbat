@@ -2,7 +2,7 @@ package warmup1;
 
 public class FrontBack {
 
-    public String frontBack(String str) {
+    public static String frontBack(String str) {
 
         // return data: String
         // param: String
@@ -17,6 +17,9 @@ public class FrontBack {
     }
 
 
+    public static void main(String[] args) {
+        System.out.println((frontBack("codingbat")));
+    }
 }
 
 /*

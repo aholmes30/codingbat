@@ -52,9 +52,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NearHundred">
-    <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Makes10" />
+  <component name="RunManager" selected="Application.FrontBack">
+    <configuration name="FrontBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.FrontBack" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrontBack" />
         <item itemvalue="Application.NearHundred" />
         <item itemvalue="Application.MissingChar" />
         <item itemvalue="Application.NotString" />
         <item itemvalue="Application.PosNeg" />
-        <item itemvalue="Application.Makes10" />
       </list>
     </recent_temporary>
   </component>
