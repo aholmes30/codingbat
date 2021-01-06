@@ -23,7 +23,6 @@ public class Front3 {
         System.out.println(front3("Chocobo"));
     }
 
-
 }
 
 /*
