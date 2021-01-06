@@ -1,7 +1,7 @@
 package warmup1;
 
 public class Front3 {
-    public String front3(String str) {
+    public static String front3(String str) {
 
         // return data: String
         // param: String
@@ -16,6 +16,11 @@ public class Front3 {
 
         return front + front + front;
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(front3("Chocobo"));
     }
 
 
