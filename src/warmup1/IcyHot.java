@@ -16,6 +16,11 @@ public class IcyHot {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(icyHot(70, 100));
+    }
+
 }
 
 /*

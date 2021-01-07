@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StartHi">
+  <component name="RunManager" selected="Application.IcyHot">
     <configuration name="BackAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.BackAround" />
       <module name="codingbat" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Front3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Front3" />
+    <configuration name="IcyHot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.IcyHot" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IcyHot" />
         <item itemvalue="Application.StartHi" />
         <item itemvalue="Application.Front22" />
         <item itemvalue="Application.Or35" />
         <item itemvalue="Application.BackAround" />
-        <item itemvalue="Application.Front3" />
       </list>
     </recent_temporary>
   </component>
