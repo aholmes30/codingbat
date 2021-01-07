@@ -2,13 +2,18 @@ package warmup1;
 
 public class StartHi {
 
-    public boolean startHi(String str) {
+    public static boolean startHi(String str) {
 
         //return data: boolean
         //param: String
 
         return str.startsWith("hi");
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(startHi("hello there"));
     }
 
 
