@@ -1,8 +1,8 @@
 package warmup1;
 
-public class front22 {
+public class Front22 {
 
-    public String front22(String str) {
+    public static String front22(String str) {
 
         //return data: String
         //param: String
@@ -22,6 +22,11 @@ public class front22 {
         return result;
 
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println((front22("doggy")));
     }
 
 }
