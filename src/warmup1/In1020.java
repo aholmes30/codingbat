@@ -2,7 +2,7 @@ package warmup1;
 
 public class In1020 {
 
-    public boolean in1020(int a, int b) {
+    public static boolean in1020(int a, int b) {
 
         //return data: boolean
         //param: int
@@ -11,8 +11,10 @@ public class In1020 {
 
     }
 
+    public static void main(String[] args) {
 
-
+        System.out.println(in1020(4, 8));
+    }
 }
 
 /*
