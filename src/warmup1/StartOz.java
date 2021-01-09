@@ -2,7 +2,7 @@ package warmup1;
 
 public class StartOz {
 
-    public String startOz(String str) {
+    public static String startOz(String str) {
 
         //return data: String
         //param: String
@@ -19,7 +19,9 @@ public class StartOz {
 
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(startOz("ozzy"));
+    }
 
 }
 
