@@ -17,6 +17,11 @@ public class DelDel {
         return str;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(delDel("adele"));
+    }
+
 
 }
 
