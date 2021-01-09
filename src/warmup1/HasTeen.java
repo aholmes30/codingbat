@@ -1,7 +1,7 @@
 package warmup1;
 
 public class HasTeen {
-    public boolean hasTeen(int a, int b, int c) {
+    public static boolean hasTeen(int a, int b, int c) {
 
         //return data: boolean
         //param: int
@@ -10,6 +10,10 @@ public class HasTeen {
                 b >= 13 && b <= 19 ||
                 c >= 13 && c <= 19;
 
+    }
+
+    public static void main(String[] args) {
+        System.out.println((hasTeen(5, 12, 7)));
     }
 
 }

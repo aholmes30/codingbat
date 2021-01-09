@@ -52,9 +52,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.In1020">
+  <component name="RunManager" selected="Application.HasTeen">
     <configuration name="Front22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.Front22" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HasTeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.HasTeen" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Or35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Or35" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StartHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.StartHi" />
       <module name="codingbat" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasTeen" />
         <item itemvalue="Application.In1020" />
         <item itemvalue="Application.IcyHot" />
         <item itemvalue="Application.StartHi" />
         <item itemvalue="Application.Front22" />
-        <item itemvalue="Application.Or35" />
       </list>
     </recent_temporary>
   </component>
