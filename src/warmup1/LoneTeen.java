@@ -2,7 +2,7 @@ package warmup1;
 
 public class LoneTeen {
 
-    public boolean loneTeen(int a, int b) {
+    public static boolean loneTeen(int a, int b) {
 
         // return data: boolean
         // param: int
@@ -14,6 +14,10 @@ public class LoneTeen {
 
         return (aTeen && !bTeen) || (!aTeen & bTeen);
 
+    }
+
+    public static void main(String[] args) {
+        System.out.println(loneTeen(6, 1));
     }
 
 }
