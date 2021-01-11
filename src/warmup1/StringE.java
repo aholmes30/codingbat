@@ -2,7 +2,7 @@ package warmup1;
 
 public class StringE {
 
-    public boolean stringE(String str) {
+    public static boolean stringE(String str) {
 
         // return data: boolean
         // param: String
@@ -16,7 +16,10 @@ public class StringE {
         return eCount >= 1 && eCount <=3;
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(stringE("Hello there everyone"));
+    }
 
 }
 
