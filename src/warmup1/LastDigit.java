@@ -2,7 +2,7 @@ package warmup1;
 
 public class LastDigit {
 
-    public boolean lastDigit(int a, int b) {
+    public static boolean lastDigit(int a, int b) {
 
         // return data: boolean
         // param: int
@@ -11,7 +11,10 @@ public class LastDigit {
 
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(lastDigit(233, 13));
+    }
 
 }
 

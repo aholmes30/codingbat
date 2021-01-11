@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StringE">
+  <component name="RunManager" selected="Application.LastDigit">
     <configuration name="Close10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.Close10" />
       <module name="codingbat" />
@@ -69,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Max1020" />
+    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.LastDigit" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartOz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.StartOz" />
+    <configuration name="Max1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.Max1020" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastDigit" />
         <item itemvalue="Application.StringE" />
         <item itemvalue="Application.Max1020" />
         <item itemvalue="Application.In3050" />
         <item itemvalue="Application.Close10" />
-        <item itemvalue="Application.StartOz" />
       </list>
     </recent_temporary>
   </component>
