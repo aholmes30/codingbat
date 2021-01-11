@@ -2,7 +2,7 @@ package warmup1;
 
 public class Close10 {
 
-    public int close10(int a, int b) {
+    public static int close10(int a, int b) {
 
         // return data: int
         // param: int
@@ -18,6 +18,11 @@ public class Close10 {
         }
         return 0;  // i.e. aDiff == bDiff
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(close10(5, 12));
     }
 
 }

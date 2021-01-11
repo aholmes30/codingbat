@@ -52,16 +52,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StartOz">
-    <configuration name="DelDel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.DelDel" />
+  <component name="RunManager" selected="Application.Close10">
+    <configuration name="Close10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.Close10" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HasTeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.HasTeen" />
+    <configuration name="DelDel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.DelDel" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Close10" />
         <item itemvalue="Application.StartOz" />
         <item itemvalue="Application.MixStart" />
         <item itemvalue="Application.DelDel" />
         <item itemvalue="Application.LoneTeen" />
-        <item itemvalue="Application.HasTeen" />
       </list>
     </recent_temporary>
   </component>
