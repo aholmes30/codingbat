@@ -1,7 +1,7 @@
 package warmup1;
 
 public class Max1020 {
-    public int max1020(int a, int b) {
+    public static int max1020(int a, int b) {
 
         // return data: int
         // param: int
@@ -16,6 +16,11 @@ public class Max1020 {
         if (b >= 10 && b <= 20) return b;
         return 0;
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(max1020(13, 21));
     }
 
 }
