@@ -2,7 +2,7 @@ package warmup1;
 
 public class EveryNth {
 
-    public String everyNth(String str, int n) {
+    public static String everyNth(String str, int n) {
 
         // return data: String
         // param: String, n
@@ -15,8 +15,10 @@ public class EveryNth {
         return result;
     }
 
+    public static void main(String[] args) {
 
-
+        System.out.println(everyNth("sunset", 2));
+    }
 }
 
 /*

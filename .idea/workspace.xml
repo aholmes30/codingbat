@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EndUp">
+  <component name="RunManager" selected="Application.EveryNth">
     <configuration name="EndUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.EndUp" />
       <module name="codingbat" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="In3050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.In3050" />
+    <configuration name="EveryNth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.EveryNth" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EveryNth" />
         <item itemvalue="Application.EndUp" />
         <item itemvalue="Application.LastDigit" />
         <item itemvalue="Application.StringE" />
         <item itemvalue="Application.Max1020" />
-        <item itemvalue="Application.In3050" />
       </list>
     </recent_temporary>
   </component>
