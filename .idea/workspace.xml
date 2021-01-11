@@ -54,9 +54,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LastDigit">
-    <configuration name="Close10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.Close10" />
+  <component name="RunManager" selected="Application.EndUp">
+    <configuration name="EndUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.EndUp" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EndUp" />
         <item itemvalue="Application.LastDigit" />
         <item itemvalue="Application.StringE" />
         <item itemvalue="Application.Max1020" />
         <item itemvalue="Application.In3050" />
-        <item itemvalue="Application.Close10" />
       </list>
     </recent_temporary>
   </component>
