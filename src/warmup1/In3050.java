@@ -1,7 +1,7 @@
 package warmup1;
 
 public class In3050 {
-    public boolean in3050(int a, int b) {
+    public static boolean in3050(int a, int b) {
 
         // return data: boolean
         // param: int
@@ -13,6 +13,11 @@ public class In3050 {
             return true;
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(in3050(7, 19));
     }
 
 

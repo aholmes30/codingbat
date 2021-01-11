@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Close10">
+  <component name="RunManager" selected="Application.In3050">
     <configuration name="Close10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.Close10" />
       <module name="codingbat" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoneTeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.LoneTeen" />
+    <configuration name="In3050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.In3050" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.In3050" />
         <item itemvalue="Application.Close10" />
         <item itemvalue="Application.StartOz" />
         <item itemvalue="Application.MixStart" />
         <item itemvalue="Application.DelDel" />
-        <item itemvalue="Application.LoneTeen" />
       </list>
     </recent_temporary>
   </component>
