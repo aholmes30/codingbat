@@ -10,7 +10,9 @@ public class MakeAbba {
 
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(makeAbba("What up", "with it"));
+    }
 }
 
 /*

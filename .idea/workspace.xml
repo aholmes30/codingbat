@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HelloName">
+  <component name="RunManager" selected="Application.MakeAbba">
     <configuration name="EndUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.EndUp" />
       <module name="codingbat" />
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.StringE" />
+    <configuration name="MakeAbba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.MakeAbba" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeAbba" />
         <item itemvalue="Application.HelloName" />
         <item itemvalue="Application.EveryNth" />
         <item itemvalue="Application.EndUp" />
         <item itemvalue="Application.LastDigit" />
-        <item itemvalue="Application.StringE" />
       </list>
     </recent_temporary>
   </component>
