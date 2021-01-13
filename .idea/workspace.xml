@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string1/MakeOutWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string1/MakeOutWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string1/MakeOutWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MakeTags">
-    <configuration name="EndUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.EndUp" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MakeOutWord">
     <configuration name="EveryNth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.EveryNth" />
       <module name="codingbat" />
@@ -83,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MakeOutWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.MakeOutWord" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MakeTags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.MakeTags" />
       <module name="codingbat" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeOutWord" />
         <item itemvalue="Application.MakeTags" />
         <item itemvalue="Application.MakeAbba" />
         <item itemvalue="Application.HelloName" />
         <item itemvalue="Application.EveryNth" />
-        <item itemvalue="Application.EndUp" />
       </list>
     </recent_temporary>
   </component>

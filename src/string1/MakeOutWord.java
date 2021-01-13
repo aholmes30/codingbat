@@ -8,6 +8,11 @@ public class MakeOutWord {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(makeOutWord("{{}}", "word"));
+    }
+
 }
 
 /*
