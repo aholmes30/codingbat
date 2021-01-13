@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FirstTwo">
+  <component name="RunManager" selected="Application.FirstHalf">
     <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.ExtraEnd" />
       <module name="codingbat" />
@@ -62,15 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.FirstTwo" />
+    <configuration name="FirstHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.FirstHalf" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeAbba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.MakeAbba" />
+    <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.FirstTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstHalf" />
         <item itemvalue="Application.FirstTwo" />
         <item itemvalue="Application.ExtraEnd" />
         <item itemvalue="Application.MakeOutWord" />
         <item itemvalue="Application.MakeTags" />
-        <item itemvalue="Application.MakeAbba" />
       </list>
     </recent_temporary>
   </component>
