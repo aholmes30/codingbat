@@ -1,14 +1,18 @@
 package string1;
 
-public class extraEnd {
+public class ExtraEnd {
 
-    public String extraEnd(String str) {
+    public static String extraEnd(String str) {
 
         //return data: extraEnd
         //param: String
 
         return str.substring(str.length()-2) + str.substring(str.length()-2) + str.substring(str.length()-2);
 
+    }
+
+    public static void main(String[] args) {
+        System.out.println(extraEnd("hey"));
     }
 }
 

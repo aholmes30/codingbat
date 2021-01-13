@@ -54,9 +54,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MakeOutWord">
-    <configuration name="EveryNth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.EveryNth" />
+  <component name="RunManager" selected="Application.ExtraEnd">
+    <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.ExtraEnd" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraEnd" />
         <item itemvalue="Application.MakeOutWord" />
         <item itemvalue="Application.MakeTags" />
         <item itemvalue="Application.MakeAbba" />
         <item itemvalue="Application.HelloName" />
-        <item itemvalue="Application.EveryNth" />
       </list>
     </recent_temporary>
   </component>
