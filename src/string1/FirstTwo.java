@@ -2,7 +2,7 @@ package string1;
 
 public class FirstTwo {
 
-    public String firstTwo(String str) {
+    public static String firstTwo(String str) {
 
         //return data: String
         //param: String
@@ -12,6 +12,11 @@ public class FirstTwo {
         }
 
         return str.substring(0, 2);
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println(firstTwo("Hey"));
 
     }
 
