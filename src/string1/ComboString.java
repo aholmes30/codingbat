@@ -13,6 +13,11 @@ public class ComboString {
         return a + b + a;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(comboString("hey", "there"));
+    }
+
 
 }
 
