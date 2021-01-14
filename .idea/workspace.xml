@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FirstHalf">
+  <component name="RunManager" selected="Application.WithOutEnd">
     <configuration name="ExtraEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.ExtraEnd" />
       <module name="codingbat" />
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeTags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.MakeTags" />
+    <configuration name="WithOutEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.WithOutEnd" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WithOutEnd" />
         <item itemvalue="Application.FirstHalf" />
         <item itemvalue="Application.FirstTwo" />
         <item itemvalue="Application.ExtraEnd" />
         <item itemvalue="Application.MakeOutWord" />
-        <item itemvalue="Application.MakeTags" />
       </list>
     </recent_temporary>
   </component>

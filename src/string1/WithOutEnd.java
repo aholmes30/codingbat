@@ -2,7 +2,7 @@ package string1;
 
 public class WithOutEnd {
 
-    public String withoutEnd(String str) {
+    public static String withoutEnd(String str) {
 
         //return data: String
         //param: String
@@ -12,6 +12,11 @@ public class WithOutEnd {
 
         return str.substring(1, str.length()-1);
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(withoutEnd("hey"));
     }
 }
 
