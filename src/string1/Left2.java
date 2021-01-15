@@ -2,7 +2,7 @@ package string1;
 
 public class Left2 {
 
-    public String left2(String str) {
+    public static String left2(String str) {
 
         //return data: String
         //param: String
@@ -14,6 +14,9 @@ public class Left2 {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(left2("Goodnight"));
+    }
 
 }
 
