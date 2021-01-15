@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/string1/Left2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string1/Left2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string1/TheEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string1/TheEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Right2">
+  <component name="RunManager" selected="Application.TheEnd">
     <configuration name="ComboString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.ComboString" />
       <module name="codingbat" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithOutEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.WithOutEnd" />
+    <configuration name="TheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.TheEnd" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheEnd" />
         <item itemvalue="Application.Right2" />
         <item itemvalue="Application.Left2" />
         <item itemvalue="Application.NonStart" />
         <item itemvalue="Application.ComboString" />
-        <item itemvalue="Application.WithOutEnd" />
       </list>
     </recent_temporary>
   </component>
