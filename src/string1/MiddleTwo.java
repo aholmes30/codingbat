@@ -2,7 +2,7 @@ package string1;
 
 public class MiddleTwo {
 
-    public String middleTwo(String str) {
+    public static String middleTwo(String str) {
 
         //return data: String
         //param: String
@@ -15,7 +15,10 @@ public class MiddleTwo {
 
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(middleTwo("midnight"));
+    }
 
 }
 

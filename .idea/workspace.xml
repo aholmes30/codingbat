@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.WithoutEnd2">
+  <component name="RunManager" selected="Application.MiddleTwo">
     <configuration name="Left2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.Left2" />
       <module name="codingbat" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.NonStart" />
+    <configuration name="MiddleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.MiddleTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiddleTwo" />
         <item itemvalue="Application.WithoutEnd2" />
         <item itemvalue="Application.TheEnd" />
         <item itemvalue="Application.Right2" />
         <item itemvalue="Application.Left2" />
-        <item itemvalue="Application.NonStart" />
       </list>
     </recent_temporary>
   </component>
