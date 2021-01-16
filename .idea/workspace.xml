@@ -52,14 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TheEnd">
-    <configuration name="ComboString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.ComboString" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WithoutEnd2">
     <configuration name="Left2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.Left2" />
       <module name="codingbat" />
@@ -88,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WithoutEnd2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.WithoutEnd2" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WithoutEnd2" />
         <item itemvalue="Application.TheEnd" />
         <item itemvalue="Application.Right2" />
         <item itemvalue="Application.Left2" />
         <item itemvalue="Application.NonStart" />
-        <item itemvalue="Application.ComboString" />
       </list>
     </recent_temporary>
   </component>

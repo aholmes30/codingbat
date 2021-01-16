@@ -2,7 +2,7 @@ package string1;
 
 public class WithoutEnd2 {
 
-    public String withouEnd2(String str) {
+    public static String withouEnd2(String str) {
 
         //return data: String
         //param: String
@@ -17,6 +17,11 @@ public class WithoutEnd2 {
         }
         return str.substring(1, str.length()-1);
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(withouEnd2("Hey There"));
     }
 
 }
