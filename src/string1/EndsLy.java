@@ -2,10 +2,15 @@ package string1;
 
 public class EndsLy {
 
-    public boolean endsLy(String str) {
+    public static boolean endsLy(String str) {
 
         return str.endsWith("ly");
 
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(endsLy("perfectly"));
     }
 
 
