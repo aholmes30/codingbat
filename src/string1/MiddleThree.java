@@ -13,7 +13,11 @@ public class MiddleThree {
         return str.substring(middle - 1, middle + 2);
         // Candy --> middle - 1 (start at n then substract 1 so a THEN add 2, so "and");
 
+    }
 
+    public static void main(String[] args) {
+
+        System.out.println(middleThree("helping"));
     }
 
 }
