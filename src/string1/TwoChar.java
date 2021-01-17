@@ -2,7 +2,7 @@ package string1;
 
 public class TwoChar {
 
-    public String twoChar(String str, int index) {
+    public static String twoChar(String str, int index) {
 
         // return data: String
         // param: String, int
@@ -16,6 +16,10 @@ public class TwoChar {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(twoChar("python", 3));
+    }
 
 }
 

@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NTwice">
+  <component name="RunManager" selected="Application.TwoChar">
     <configuration name="EndsLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.EndsLy" />
       <module name="codingbat" />
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.TheEnd" />
+    <configuration name="TwoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.TwoChar" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoChar" />
         <item itemvalue="Application.NTwice" />
         <item itemvalue="Application.EndsLy" />
         <item itemvalue="Application.MiddleTwo" />
         <item itemvalue="Application.WithoutEnd2" />
-        <item itemvalue="Application.TheEnd" />
       </list>
     </recent_temporary>
   </component>
