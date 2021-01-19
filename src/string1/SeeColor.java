@@ -16,6 +16,9 @@ public class SeeColor {
         return "";
     }
 
+    public static void main(String[] args) {
+        System.out.println(seeColor("red button"));
+    }
 
 }
 
