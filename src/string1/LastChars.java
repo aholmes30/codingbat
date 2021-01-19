@@ -20,6 +20,11 @@ public class LastChars {
         return a.substring(0, 1) + b.substring(b.length()-1);
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(lastChars("good" , "kitty"));
+    }
+
 
 }
 

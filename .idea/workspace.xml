@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AtFirst">
+  <component name="RunManager" selected="Application.LastChars">
     <configuration name="AtFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.AtFirst" />
       <module name="codingbat" />
@@ -69,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.MiddleThree" />
+    <configuration name="LastChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.LastChars" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.NTwice" />
+    <configuration name="MiddleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.MiddleThree" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastChars" />
         <item itemvalue="Application.AtFirst" />
         <item itemvalue="Application.HasBad" />
         <item itemvalue="Application.MiddleThree" />
         <item itemvalue="Application.TwoChar" />
-        <item itemvalue="Application.NTwice" />
       </list>
     </recent_temporary>
   </component>
