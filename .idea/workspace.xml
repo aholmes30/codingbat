@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ConCat">
+  <component name="RunManager" selected="Application.LastTwo">
     <configuration name="AtFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.AtFirst" />
       <module name="codingbat" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.MiddleThree" />
+    <configuration name="LastTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.LastTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastTwo" />
         <item itemvalue="Application.ConCat" />
         <item itemvalue="Application.LastChars" />
         <item itemvalue="Application.AtFirst" />
         <item itemvalue="Application.HasBad" />
-        <item itemvalue="Application.MiddleThree" />
       </list>
     </recent_temporary>
   </component>
