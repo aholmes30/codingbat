@@ -13,6 +13,12 @@ public class FrontAgain {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(frontAgain("edited"));
+        System.out.println(frontAgain("edit"));
+    }
+
 }
 
 /*
