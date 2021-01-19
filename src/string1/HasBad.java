@@ -19,6 +19,12 @@ public class HasBad {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(hasBad("badbadbababdabdabad"));
+        System.out.println(hasBad("bello"));
+    }
+
 
 
 }
