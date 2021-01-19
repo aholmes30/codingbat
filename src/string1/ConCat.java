@@ -18,6 +18,10 @@ public class ConCat {
         return a + b;
     }
 
+    public static void main(String[] args) {
+        System.out.println(conCat("abc", "catdog"));
+    }
+
 
 
 }

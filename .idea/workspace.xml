@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string1/ConCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string1/ConCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string1/ConCat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LastChars">
+  <component name="RunManager" selected="Application.ConCat">
     <configuration name="AtFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.AtFirst" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.ConCat" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.TwoChar" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConCat" />
         <item itemvalue="Application.LastChars" />
         <item itemvalue="Application.AtFirst" />
         <item itemvalue="Application.HasBad" />
         <item itemvalue="Application.MiddleThree" />
-        <item itemvalue="Application.TwoChar" />
       </list>
     </recent_temporary>
   </component>
