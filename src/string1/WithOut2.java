@@ -22,7 +22,9 @@ public class WithOut2 {
         else return str;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(without2("HelloHi"));
+    }
 }
 
 /*
