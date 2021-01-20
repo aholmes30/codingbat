@@ -52,9 +52,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MinCat">
-    <configuration name="ConCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.ConCat" />
+  <component name="RunManager" selected="Application.ExtraFront">
+    <configuration name="ExtraFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.ExtraFront" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraFront" />
         <item itemvalue="Application.MinCat" />
         <item itemvalue="Application.FrontAgain" />
         <item itemvalue="Application.SeeColor" />
         <item itemvalue="Application.LastTwo" />
-        <item itemvalue="Application.ConCat" />
       </list>
     </recent_temporary>
   </component>
