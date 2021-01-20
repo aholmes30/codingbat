@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FrontAgain">
+  <component name="RunManager" selected="Application.MinCat">
     <configuration name="ConCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.ConCat" />
       <module name="codingbat" />
@@ -67,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.LastChars" />
+    <configuration name="LastTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.LastTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.LastTwo" />
+    <configuration name="MinCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.MinCat" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCat" />
         <item itemvalue="Application.FrontAgain" />
         <item itemvalue="Application.SeeColor" />
         <item itemvalue="Application.LastTwo" />
         <item itemvalue="Application.ConCat" />
-        <item itemvalue="Application.LastChars" />
       </list>
     </recent_temporary>
   </component>

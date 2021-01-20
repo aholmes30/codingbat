@@ -19,7 +19,9 @@ public class MinCat {
         return a + b;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(minCat("Hey there", "Java"));
+    }
 }
 
 /*
