@@ -13,6 +13,11 @@ public class StartWord {
         return "";
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(startWord("hippo", "xip"));
+    }
+
 
 }
 
