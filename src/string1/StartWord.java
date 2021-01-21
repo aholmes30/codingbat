@@ -17,8 +17,6 @@ public class StartWord {
 
         System.out.println(startWord("hippo", "xip"));
     }
-
-
 }
 
 /*
