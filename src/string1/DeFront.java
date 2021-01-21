@@ -22,6 +22,10 @@ public class DeFront {
         return temp;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(deFront("Python"));
+    }
 }
 
 /*

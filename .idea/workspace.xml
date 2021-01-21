@@ -52,7 +52,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.WithOut2">
+  <component name="RunManager" selected="Application.DeFront">
+    <configuration name="DeFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string1.DeFront" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtraFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.ExtraFront" />
       <module name="codingbat" />
@@ -74,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeeColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.SeeColor" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WithOut2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.WithOut2" />
       <module name="codingbat" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeFront" />
         <item itemvalue="Application.WithOut2" />
         <item itemvalue="Application.ExtraFront" />
         <item itemvalue="Application.MinCat" />
         <item itemvalue="Application.FrontAgain" />
-        <item itemvalue="Application.SeeColor" />
       </list>
     </recent_temporary>
   </component>
