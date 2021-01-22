@@ -16,6 +16,11 @@ public class DateFashion {
         else return 1;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(dateFashion(3, 9));
+    }
+
 }
 
 /*

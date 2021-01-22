@@ -54,9 +54,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CigarParty">
+  <component name="RunManager" selected="Application.DateFashion">
     <configuration name="CigarParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.CigarParty" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFashion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.DateFashion" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithOut2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.WithOut2" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WithoutX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string1.WithoutX" />
       <module name="codingbat" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateFashion" />
         <item itemvalue="Application.CigarParty" />
         <item itemvalue="Application.WithoutX" />
         <item itemvalue="Application.StartWord" />
         <item itemvalue="Application.DeFront" />
-        <item itemvalue="Application.WithOut2" />
       </list>
     </recent_temporary>
   </component>
