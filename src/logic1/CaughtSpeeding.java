@@ -26,6 +26,11 @@ public class CaughtSpeeding {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(caughtSpeeding(90, true));
+    }
+
 
 }
 
