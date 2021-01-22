@@ -20,6 +20,11 @@ public class CigarParty {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(cigarParty(67, false));
+    }
+
 }
 
 /*
