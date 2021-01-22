@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DateFashion">
+  <component name="RunManager" selected="Application.SquirrelPlay">
     <configuration name="CigarParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.CigarParty" />
       <module name="codingbat" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string1.DeFront" />
+    <configuration name="SquirrelPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.SquirrelPlay" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquirrelPlay" />
         <item itemvalue="Application.DateFashion" />
         <item itemvalue="Application.CigarParty" />
         <item itemvalue="Application.WithoutX" />
         <item itemvalue="Application.StartWord" />
-        <item itemvalue="Application.DeFront" />
       </list>
     </recent_temporary>
   </component>
