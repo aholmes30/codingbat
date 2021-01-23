@@ -18,6 +18,10 @@ public class AlarmClock {
             return "10:00";
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(alarmClock(6, true));
+    }
 
 
 }
