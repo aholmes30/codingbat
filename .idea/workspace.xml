@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AlarmClock">
+  <component name="RunManager" selected="Application.Love6">
     <configuration name="AlarmClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.AlarmClock" />
       <module name="codingbat" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateFashion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.DateFashion" />
+    <configuration name="Love6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.Love6" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Love6" />
         <item itemvalue="Application.AlarmClock" />
         <item itemvalue="Application.SortaSum" />
         <item itemvalue="Application.CaughtSpeeding" />
         <item itemvalue="Application.SquirrelPlay" />
-        <item itemvalue="Application.DateFashion" />
       </list>
     </recent_temporary>
   </component>
