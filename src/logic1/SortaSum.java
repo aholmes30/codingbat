@@ -13,7 +13,10 @@ public class SortaSum {
         return a + b;
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(sortaSum(10, 15));
+    }
 }
 
 /*
