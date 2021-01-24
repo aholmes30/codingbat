@@ -14,6 +14,11 @@ public class SpecialEleven {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(specialEleven(44));
+    }
+
 }
 
 /*
