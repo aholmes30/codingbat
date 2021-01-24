@@ -12,7 +12,11 @@ public class More20 {
     }
 
 
+    public static void main(String[] args) {
 
+        System.out.println(more20(67));
+        System.out.println(more20(22));
+    }
 }
 
 /*
