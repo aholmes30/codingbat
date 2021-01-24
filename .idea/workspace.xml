@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Love6">
+  <component name="RunManager" selected="Application.In1To10">
     <configuration name="AlarmClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.AlarmClock" />
       <module name="codingbat" />
@@ -62,6 +62,13 @@
     </configuration>
     <configuration name="CaughtSpeeding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.CaughtSpeeding" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="In1To10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.In1To10" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquirrelPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.SquirrelPlay" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.In1To10" />
         <item itemvalue="Application.Love6" />
         <item itemvalue="Application.AlarmClock" />
         <item itemvalue="Application.SortaSum" />
         <item itemvalue="Application.CaughtSpeeding" />
-        <item itemvalue="Application.SquirrelPlay" />
       </list>
     </recent_temporary>
   </component>

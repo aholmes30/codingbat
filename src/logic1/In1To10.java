@@ -21,6 +21,11 @@ public class In1To10 {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(in1To10(5, true));
+    }
+
 }
 
 /*
