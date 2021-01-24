@@ -16,6 +16,11 @@ public class Old35 {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(old35(11));
+    }
+
 
 }
 
