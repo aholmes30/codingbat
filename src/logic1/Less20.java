@@ -14,7 +14,10 @@ public class Less20 {
         return false;
     }
 
+    public static void main(String[] args) {
 
+        System.out.println(less20(6));
+    }
 
 }
 
