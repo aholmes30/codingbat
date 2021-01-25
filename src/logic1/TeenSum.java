@@ -12,6 +12,11 @@ public class TeenSum {
         }
         return a + b;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(teenSum(13, 21));
+    }
 }
 
 /*

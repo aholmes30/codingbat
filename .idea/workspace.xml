@@ -52,16 +52,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Old35">
+  <component name="RunManager" selected="Application.TeenSum">
     <configuration name="In1To10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.In1To10" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Love6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.Love6" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TeenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.TeenSum" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeenSum" />
         <item itemvalue="Application.Old35" />
         <item itemvalue="Application.More20" />
         <item itemvalue="Application.SpecialEleven" />
         <item itemvalue="Application.In1To10" />
-        <item itemvalue="Application.Love6" />
       </list>
     </recent_temporary>
   </component>
