@@ -18,8 +18,6 @@ public class WithoutDoubles {
         else return die1 + die2;
     }
 
-
-
 }
 
 /*
