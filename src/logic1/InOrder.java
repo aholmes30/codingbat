@@ -1,6 +1,6 @@
 package logic1;
 
-public class inOrder {
+public class InOrder {
     public static boolean inOrder(int a, int b, int c, boolean bOk) {
 
         // return data: boolean
@@ -14,6 +14,11 @@ public class inOrder {
             return true;
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println((inOrder(7, 7, 7, false)));
     }
 
 
