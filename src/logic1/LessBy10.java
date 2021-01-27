@@ -11,6 +11,10 @@ public class LessBy10 {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(lessBy10(10, 20, 30));
+    }
+
 }
 
 /*
