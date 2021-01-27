@@ -1,11 +1,10 @@
 package logic1;
 
 public class FizzString {
-    public String fizzString(String str) {
+    public static String fizzString(String str) {
 
         // return data: String
         // param: String
-
 
         if(str.startsWith("f") && str.endsWith("b")) {
             return "FizzBuzz";
@@ -20,6 +19,11 @@ public class FizzString {
         }
 
         return str;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(fizzString("fij"));
     }
 
 }

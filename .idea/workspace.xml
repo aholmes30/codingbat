@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TeaParty">
+  <component name="RunManager" selected="Application.FizzString">
     <configuration name="AnswerCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.AnswerCell" />
       <module name="codingbat" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="More20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.More20" />
+    <configuration name="FizzString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.FizzString" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzString" />
         <item itemvalue="Application.TeaParty" />
         <item itemvalue="Application.AnswerCell" />
         <item itemvalue="Application.TeenSum" />
         <item itemvalue="Application.Old35" />
-        <item itemvalue="Application.More20" />
       </list>
     </recent_temporary>
   </component>
@@ -124,22 +124,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1611617586384">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1611710783005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611617586384" />
-    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1611617586384">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611710783005" />
+    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1611710783005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611617586384" />
-    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1611617586384">
+    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611710783005" />
+    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1611710783005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611617586384" />
-    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1611617586384">
+    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611710783005" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1611710783005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611617586384" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1611710783005" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
