@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FizzString2">
+  <component name="RunManager" selected="Application.TwoAsOne">
     <configuration name="AnswerCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.AnswerCell" />
       <module name="codingbat" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.TeenSum" />
+    <configuration name="TwoAsOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.TwoAsOne" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoAsOne" />
         <item itemvalue="Application.FizzString2" />
         <item itemvalue="Application.FizzString" />
         <item itemvalue="Application.TeaParty" />
         <item itemvalue="Application.AnswerCell" />
-        <item itemvalue="Application.TeenSum" />
       </list>
     </recent_temporary>
   </component>
