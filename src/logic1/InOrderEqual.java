@@ -14,7 +14,9 @@ public class InOrderEqual {
         return a < b && b < c;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(inOrderEqual(4, 5, 8, false));
+    }
 }
 
 /*

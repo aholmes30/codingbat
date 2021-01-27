@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.InOrder">
+  <component name="RunManager" selected="Application.InOrderEqual">
     <configuration name="FizzString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.FizzString" />
       <module name="codingbat" />
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeaParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.TeaParty" />
+    <configuration name="InOrderEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.InOrderEqual" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InOrderEqual" />
         <item itemvalue="Application.InOrder" />
         <item itemvalue="Application.TwoAsOne" />
         <item itemvalue="Application.FizzString2" />
         <item itemvalue="Application.FizzString" />
-        <item itemvalue="Application.TeaParty" />
       </list>
     </recent_temporary>
   </component>
