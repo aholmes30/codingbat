@@ -14,8 +14,6 @@ public class TwoAsOne {
     public static void main(String[] args) {
         System.out.println(twoAsOne(8, 3, 13));
     }
-
-
 }
 
 /*
