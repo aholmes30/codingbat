@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/logic1/FizzString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic1/FizzString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic1/FizzString2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FizzString">
+  <component name="RunManager" selected="Application.FizzString2">
     <configuration name="AnswerCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.AnswerCell" />
       <module name="codingbat" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Old35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.Old35" />
+    <configuration name="FizzString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.FizzString2" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzString2" />
         <item itemvalue="Application.FizzString" />
         <item itemvalue="Application.TeaParty" />
         <item itemvalue="Application.AnswerCell" />
         <item itemvalue="Application.TeenSum" />
-        <item itemvalue="Application.Old35" />
       </list>
     </recent_temporary>
   </component>
