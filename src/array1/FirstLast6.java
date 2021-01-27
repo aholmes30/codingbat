@@ -11,6 +11,13 @@ public class FirstLast6 {
 
     }
 
+    public static void main(String[] args) {
+
+        int[] nums = {9, 0, 5, 6};
+
+        System.out.println(firstLast6(nums));
+    }
+
 }
 
 /*

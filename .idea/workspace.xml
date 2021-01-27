@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="" />
+    <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/array1/FirstLast6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array1/FirstLast6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +54,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LessBy10">
-    <configuration name="FizzString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.FizzString2" />
+  <component name="RunManager" selected="Application.FirstLast6">
+    <configuration name="FirstLast6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.FirstLast6" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstLast6" />
         <item itemvalue="Application.LessBy10" />
         <item itemvalue="Application.InOrderEqual" />
         <item itemvalue="Application.InOrder" />
         <item itemvalue="Application.TwoAsOne" />
-        <item itemvalue="Application.FizzString2" />
       </list>
     </recent_temporary>
   </component>
