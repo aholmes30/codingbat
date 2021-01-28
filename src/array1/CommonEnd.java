@@ -16,6 +16,12 @@ public class CommonEnd {
         return false;
     }
 
+    public static void main(String[] args) {
+        int[] a = {9, 90, 6, 5};
+        int[] b = {4, 1, 6, 77};
+        System.out.println(commonEnd(a, b));
+    }
+
 
 }
 
