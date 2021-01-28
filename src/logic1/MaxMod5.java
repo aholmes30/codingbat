@@ -25,6 +25,11 @@ public class MaxMod5 {
         return b;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(maxMod5(10, 5));
+    }
+
 }
 
 /*
