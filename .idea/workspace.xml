@@ -52,16 +52,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaxMod5">
+  <component name="RunManager" selected="Application.SameFirstLast">
     <configuration name="FirstLast6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.FirstLast6" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.InOrder" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SameFirstLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.SameFirstLast" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SameFirstLast" />
         <item itemvalue="Application.MaxMod5" />
         <item itemvalue="Application.FirstLast6" />
         <item itemvalue="Application.LessBy10" />
         <item itemvalue="Application.InOrderEqual" />
-        <item itemvalue="Application.InOrder" />
       </list>
     </recent_temporary>
   </component>

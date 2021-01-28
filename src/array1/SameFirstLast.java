@@ -11,6 +11,13 @@ public class SameFirstLast {
         return nums.length >= 1 && nums[0] == nums[nums.length-1];
 
     }
+
+    public static void main(String[] args) {
+
+        int[] nums = {4, 5, 2, 44, 4};
+
+        System.out.println(sameFirstLast(nums));
+    }
 }
 
 /*
