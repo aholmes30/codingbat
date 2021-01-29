@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CommonEnd">
+  <component name="RunManager" selected="Application.Sum2">
     <configuration name="CommonEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.CommonEnd" />
       <module name="codingbat" />
@@ -62,13 +62,6 @@
     </configuration>
     <configuration name="FirstLast6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.FirstLast6" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessBy10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.LessBy10" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.Sum2" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum2" />
         <item itemvalue="Application.CommonEnd" />
         <item itemvalue="Application.SameFirstLast" />
         <item itemvalue="Application.MaxMod5" />
         <item itemvalue="Application.FirstLast6" />
-        <item itemvalue="Application.LessBy10" />
       </list>
     </recent_temporary>
   </component>
