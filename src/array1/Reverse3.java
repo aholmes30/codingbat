@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class Reverse3 {
 
     public static int[] reverse3(int[] nums) {
@@ -12,6 +14,10 @@ public class Reverse3 {
 
     }
 
+    public static void main(String[] args) {
+        int[] nums = {5, 1, 3, 8, 9};
+        System.out.println(Arrays.toString(reverse3(nums)));
+    }
 }
 
 /*
