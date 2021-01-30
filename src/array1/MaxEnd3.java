@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MaxEnd3 {
 
     public static int[] maxEnd3(int[] nums) {
@@ -22,6 +24,11 @@ public class MaxEnd3 {
 
         return new int[] {nums[0], nums[1], nums[2]};
 
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {5, 78, 23, 45, 99};
+        System.out.println(Arrays.toString(maxEnd3(nums)));
     }
 
 }
