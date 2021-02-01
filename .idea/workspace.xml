@@ -52,7 +52,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MakeEnds">
+  <component name="RunManager" selected="Application.Has23">
+    <configuration name="Has23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.Has23" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MakeEnds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.MakeEnds" />
       <module name="codingbat" />
@@ -81,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateLeft3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.RotateLeft3" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Has23" />
         <item itemvalue="Application.MakeEnds" />
         <item itemvalue="Application.MiddleWay" />
         <item itemvalue="Application.MaxEnd3" />
         <item itemvalue="Application.Reverse3" />
-        <item itemvalue="Application.RotateLeft3" />
       </list>
     </recent_temporary>
   </component>

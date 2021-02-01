@@ -15,6 +15,12 @@ public class Has23 {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        int[] nums = {3, 45, 1, 78, 89};
+        System.out.println(has23(nums));
+    }
+
 }
 
 /*
