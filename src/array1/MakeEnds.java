@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MakeEnds {
     public static int[] makeEnds(int[] nums) {
 
@@ -9,6 +11,11 @@ public class MakeEnds {
         int[] newArr = {nums[0], nums[nums.length-1]};
 
         return newArr;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {56, 89, 23};
+        System.out.println(Arrays.toString(makeEnds(nums)));
     }
 }
 
