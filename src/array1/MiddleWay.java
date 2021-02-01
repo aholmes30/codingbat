@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MiddleWay {
 
     public static int[] middleWay(int[] a, int[] b) {
@@ -19,6 +21,11 @@ public class MiddleWay {
 
     }
 
+    public static void main(String[] args) {
+        int[] a = {8, 5, 6};
+        int[] b = {3, 4, 5};
+        System.out.println(Arrays.toString(middleWay(a, b)));
+    }
 }
 
 /*
