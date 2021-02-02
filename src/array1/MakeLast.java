@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MakeLast {
 
     public static int[] makeLast(int[] nums) {
@@ -18,7 +20,10 @@ public class MakeLast {
 
     }
 
-
+    public static void main(String[] args) {
+        int[] nums = {6, 23, 12, 9};
+        System.out.println(Arrays.toString(makeLast(nums)));
+    }
 }
 
 /*

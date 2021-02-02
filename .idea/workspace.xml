@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.No23">
+  <component name="RunManager" selected="Application.MakeLast">
     <configuration name="Has23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.Has23" />
       <module name="codingbat" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxEnd3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.MaxEnd3" />
+    <configuration name="MakeLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.MakeLast" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeLast" />
         <item itemvalue="Application.No23" />
         <item itemvalue="Application.Has23" />
         <item itemvalue="Application.MakeEnds" />
         <item itemvalue="Application.MiddleWay" />
-        <item itemvalue="Application.MaxEnd3" />
       </list>
     </recent_temporary>
   </component>
