@@ -17,7 +17,11 @@ public class Start1 {
         return count;
     }
 
-
+    public static void main(String[] args) {
+        int[] a = {7, 9, 45, 8};
+        int[] b = {3, 5, 6};
+        System.out.println(start1(a, b));
+    }
 }
 
 /*
