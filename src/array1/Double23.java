@@ -15,6 +15,10 @@ public class Double23 {
         return false;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {5, 7, 1, 34, 56};
+        System.out.println(double23(nums));
+    }
 
 }
 
