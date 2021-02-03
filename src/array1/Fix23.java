@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class Fix23 {
     public static int[] fix23(int[] nums) {
 
@@ -17,6 +19,10 @@ public class Fix23 {
         return nums;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {90, 78, 34};
+        System.out.println(Arrays.toString(fix23(nums)));
+    }
 }
 
 /*
