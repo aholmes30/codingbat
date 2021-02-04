@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class BiggerTwo {
     public static int[] biggerTwo(int[] a, int[] b) {
 
@@ -14,6 +16,12 @@ public class BiggerTwo {
             return a;
         }
         else return b;
+    }
+
+    public static void main(String[] args) {
+        int a[] = {5, 6};
+        int b[] = {6, 4};
+        System.out.println(Arrays.toString(biggerTwo(a, b)));
     }
 
 }
