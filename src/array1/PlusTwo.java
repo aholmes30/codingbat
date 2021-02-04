@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class PlusTwo {
 
     public static int[] plusTwo(int[] a, int[] b) {
@@ -11,7 +13,12 @@ public class PlusTwo {
         return ab;
     }
 
+    public static void main(String[] args) {
+        int[] a = {5, 6};
+        int[] b = {8, 9};
 
+        System.out.println(Arrays.toString(plusTwo(a, b)));
+    }
 }
 
 /*
