@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BiggerTwo">
+  <component name="RunManager" selected="Application.MakeMiddle">
     <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
       <module name="codingbat" />
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.MakeLast" />
+    <configuration name="MakeMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.MakeMiddle" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeMiddle" />
         <item itemvalue="Application.BiggerTwo" />
         <item itemvalue="Application.Start1" />
         <item itemvalue="Application.Fix23" />
         <item itemvalue="Application.Double23" />
-        <item itemvalue="Application.MakeLast" />
       </list>
     </recent_temporary>
   </component>

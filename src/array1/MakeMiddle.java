@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MakeMiddle {
 
     public static int[] makeMiddle(int[] nums) {
@@ -9,6 +11,11 @@ public class MakeMiddle {
 
         int[] newArr = {nums[nums.length/2-1], nums[nums.length / 2]};
         return newArr;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {4, 2, 12, 6};
+        System.out.println(Arrays.toString(makeMiddle(nums)));
     }
 
 }
