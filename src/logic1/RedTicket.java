@@ -24,6 +24,10 @@ public class RedTicket {
         return 0;
     }
 
+    public static void main(String[] args) {
+        System.out.println(redTicket(7, 9, 4));
+    }
+
 }
 
 /*
