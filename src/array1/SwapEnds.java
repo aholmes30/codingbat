@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class SwapEnds {
 
     public static int[] swapEnds(int[] nums) {
@@ -22,6 +24,10 @@ public class SwapEnds {
 
     }
 
+    public static void main(String[] args) {
+        int[] nums = {7, 8 , 9};
+        System.out.println(Arrays.toString(swapEnds(nums)));
+    }
 
 }
 
