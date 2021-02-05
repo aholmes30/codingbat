@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SwapEnds">
+  <component name="RunManager" selected="Application.MidThree">
     <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
       <module name="codingbat" />
@@ -67,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.PlusTwo" />
+    <configuration name="MidThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.MidThree" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.Start1" />
+    <configuration name="PlusTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.PlusTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MidThree" />
         <item itemvalue="Application.SwapEnds" />
         <item itemvalue="Application.PlusTwo" />
         <item itemvalue="Application.MakeMiddle" />
         <item itemvalue="Application.BiggerTwo" />
-        <item itemvalue="Application.Start1" />
       </list>
     </recent_temporary>
   </component>

@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class MidThree {
     public static int[] midThree(int[] nums) {
 
@@ -16,6 +18,11 @@ public class MidThree {
         return newArr;
 
 
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {8, 9, 10};
+        System.out.println(Arrays.toString(midThree(nums)));
     }
 
 }
