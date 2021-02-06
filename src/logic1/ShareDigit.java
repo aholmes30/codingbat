@@ -21,6 +21,9 @@ public class ShareDigit {
         return false;
     }
 
+    public static void main(String[] args) {
+        System.out.println(shareDigit(12, 23));
+    }
 
 }
 

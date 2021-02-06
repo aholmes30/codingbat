@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BlueTicket">
+  <component name="RunManager" selected="Application.ShareDigit">
     <configuration name="BlueTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.BlueTicket" />
       <module name="codingbat" />
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapEnds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.SwapEnds" />
+    <configuration name="ShareDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.ShareDigit" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShareDigit" />
         <item itemvalue="Application.BlueTicket" />
         <item itemvalue="Application.GreenTicket" />
         <item itemvalue="Application.RedTicket" />
         <item itemvalue="Application.MidThree" />
-        <item itemvalue="Application.SwapEnds" />
       </list>
     </recent_temporary>
   </component>
