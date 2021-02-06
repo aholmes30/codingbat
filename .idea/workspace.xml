@@ -54,7 +54,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.GreenTicket">
+  <component name="RunManager" selected="Application.BlueTicket">
+    <configuration name="BlueTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.BlueTicket" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreenTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.GreenTicket" />
       <module name="codingbat" />
@@ -64,13 +71,6 @@
     </configuration>
     <configuration name="MidThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.MidThree" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.PlusTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlueTicket" />
         <item itemvalue="Application.GreenTicket" />
         <item itemvalue="Application.RedTicket" />
         <item itemvalue="Application.MidThree" />
         <item itemvalue="Application.SwapEnds" />
-        <item itemvalue="Application.PlusTwo" />
       </list>
     </recent_temporary>
   </component>
