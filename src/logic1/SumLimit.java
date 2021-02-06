@@ -16,6 +16,9 @@ public class SumLimit {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(sumLimit(6, 9));
+    }
 }
 
 /*
