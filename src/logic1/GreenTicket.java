@@ -20,6 +20,10 @@ public class GreenTicket {
         return 0;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(greenTicket(7, 9, 12));
+    }
 
 }
 

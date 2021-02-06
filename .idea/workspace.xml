@@ -54,9 +54,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RedTicket">
-    <configuration name="MakeMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.MakeMiddle" />
+  <component name="RunManager" selected="Application.GreenTicket">
+    <configuration name="GreenTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic1.GreenTicket" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreenTicket" />
         <item itemvalue="Application.RedTicket" />
         <item itemvalue="Application.MidThree" />
         <item itemvalue="Application.SwapEnds" />
         <item itemvalue="Application.PlusTwo" />
-        <item itemvalue="Application.MakeMiddle" />
       </list>
     </recent_temporary>
   </component>
