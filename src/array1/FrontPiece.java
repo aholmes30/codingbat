@@ -1,8 +1,10 @@
 package array1;
 
-public static class FrontPiece {
+import java.util.Arrays;
 
-    public int[] frontPiece(int[] nums) {
+public class FrontPiece {
+
+    public static int[] frontPiece(int[] nums) {
 
         // return data: int[]
         // param: int[]
@@ -13,6 +15,11 @@ public static class FrontPiece {
         int[] newArr = {nums[0], nums[1]};
 
         return newArr;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {6, 3, 45, 67};
+        System.out.println(Arrays.toString(frontPiece(nums)));
     }
 
 }

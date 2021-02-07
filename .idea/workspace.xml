@@ -54,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaxTriple">
+  <component name="RunManager" selected="Application.FrontPiece">
     <configuration name="BlueTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logic1.BlueTicket" />
       <module name="codingbat" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreenTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.GreenTicket" />
+    <configuration name="FrontPiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.FrontPiece" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrontPiece" />
         <item itemvalue="Application.MaxTriple" />
         <item itemvalue="Application.SumLimit" />
         <item itemvalue="Application.ShareDigit" />
         <item itemvalue="Application.BlueTicket" />
-        <item itemvalue="Application.GreenTicket" />
       </list>
     </recent_temporary>
   </component>
