@@ -26,6 +26,11 @@ public class Unlucky {
 
         return false;
     }
+
+    public static void main(String[] args) {
+        int[] nums = {3, 1, 3, 1, 1, 3};
+        System.out.println(unlucky1(nums));
+    }
 }
 
 /*
