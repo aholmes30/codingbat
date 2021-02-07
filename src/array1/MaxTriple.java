@@ -20,6 +20,11 @@ public class MaxTriple {
         return last;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {5, 6, 7, 8, 19};
+        System.out.println(maxTriple(nums));
+    }
+
 }
 
 /*
