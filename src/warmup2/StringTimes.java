@@ -1,4 +1,6 @@
-public class warmup2 {
+package warmup2;
+
+public class StringTimes {
 
     public static String stringTimes(String str, int n) {
 
@@ -12,6 +14,10 @@ public class warmup2 {
             temp = temp + str;
         }
         return temp;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(stringTimes("hello", 4));
     }
 
 }
