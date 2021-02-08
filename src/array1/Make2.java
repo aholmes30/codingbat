@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class Make2 {
 
     public static int[] make2(int[] a, int[] b) {
@@ -38,6 +40,11 @@ public class Make2 {
         return newArr;
     }
 
+    public static void main(String[] args) {
+        int[] a = {6, 7 ,4};
+        int[] b = {2, 4};
+        System.out.println(Arrays.toString(make2(a, b)));
+    }
 
 }
 /*

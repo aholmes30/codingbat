@@ -52,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Unlucky">
+  <component name="RunManager" selected="Application.Make2">
     <configuration name="FrontPiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.FrontPiece" />
       <module name="codingbat" />
@@ -60,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.MaxTriple" />
+    <configuration name="Make2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.Make2" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShareDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic1.ShareDigit" />
+    <configuration name="MaxTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.MaxTriple" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Make2" />
         <item itemvalue="Application.Unlucky" />
         <item itemvalue="Application.FrontPiece" />
         <item itemvalue="Application.MaxTriple" />
         <item itemvalue="Application.SumLimit" />
-        <item itemvalue="Application.ShareDigit" />
       </list>
     </recent_temporary>
   </component>
