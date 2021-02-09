@@ -22,6 +22,10 @@ public class Last2 {
         return count;
     }
 
+    public static void main(String[] args) {
+        System.out.println(last2("Doggxxo is xxcutxxexx"));
+    }
+
 }
 
 /*
