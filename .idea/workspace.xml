@@ -59,7 +59,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTimes">
+  <component name="RunManager" selected="Application.StringSplosion">
     <configuration name="FrontPiece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.FrontPiece" />
       <module name="codingbat" />
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.MaxTriple" />
+    <configuration name="StringSplosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup2.StringSplosion" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSplosion" />
         <item itemvalue="Application.StringTimes" />
         <item itemvalue="Application.Make2" />
         <item itemvalue="Application.Unlucky" />
         <item itemvalue="Application.FrontPiece" />
-        <item itemvalue="Application.MaxTriple" />
       </list>
     </recent_temporary>
   </component>
