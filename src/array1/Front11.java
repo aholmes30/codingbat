@@ -1,5 +1,7 @@
 package array1;
 
+import java.util.Arrays;
+
 public class Front11 {
 
     public static int[] front11(int[] a, int[] b) {
@@ -23,6 +25,11 @@ public class Front11 {
         return newArr;
     }
 
+    public static void main(String[] args) {
+        int[] a = {9, 90, 900};
+        int[] b = {4, 6, 3, 1, 5};
+        System.out.println(Arrays.toString(front11(a, b)));
+    }
 
 
 }
