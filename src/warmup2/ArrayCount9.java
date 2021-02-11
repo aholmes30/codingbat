@@ -16,6 +16,11 @@ public class ArrayCount9 {
         return count;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {9, 6, 9, 9, 9};
+        System.out.println(arrayCount9(nums));
+    }
+
 }
 
 /*
