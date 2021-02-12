@@ -57,7 +57,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Front11">
+  <component name="RunManager" selected="Application.FrontTimes">
     <configuration name="ArrayCount9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup2.ArrayCount9" />
       <module name="codingbat" />
@@ -67,6 +67,13 @@
     </configuration>
     <configuration name="Front11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.Front11" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup2.FrontTimes" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup2.StringTimes" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrontTimes" />
         <item itemvalue="Application.Front11" />
         <item itemvalue="Application.ArrayCount9" />
         <item itemvalue="Application.Last2" />
         <item itemvalue="Application.StringSplosion" />
-        <item itemvalue="Application.StringTimes" />
       </list>
     </recent_temporary>
   </component>

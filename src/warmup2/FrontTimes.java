@@ -22,7 +22,9 @@ public class FrontTimes {
         return temp;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(frontTimes("hello", 5));
+    }
 }
 
 /*
