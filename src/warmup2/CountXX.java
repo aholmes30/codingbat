@@ -16,7 +16,9 @@ public class CountXX {
         return xxCount;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(countXX("Hellxxo there"));
+    }
 
 }
 
