@@ -15,6 +15,10 @@ public class StringBits {
         return result;
     }
 
+    public static void main(String[] args) {
+        System.out.println(stringBits("That dog is so cute"));
+    }
+
 }
 
 /*
