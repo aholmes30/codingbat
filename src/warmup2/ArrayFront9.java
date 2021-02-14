@@ -22,6 +22,11 @@ public class ArrayFront9 {
         return false;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {8, 8 , 9, 90};
+        System.out.println(arrayFront9(nums));
+    }
+
 
 }
 

@@ -57,7 +57,14 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBits">
+  <component name="RunManager" selected="Application.ArrayFront9">
+    <configuration name="ArrayFront9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup2.ArrayFront9" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountXX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup2.CountXX" />
       <module name="codingbat" />
@@ -67,13 +74,6 @@
     </configuration>
     <configuration name="DoubleX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup2.DoubleX" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Front11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.Front11" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayFront9" />
         <item itemvalue="Application.StringBits" />
         <item itemvalue="Application.DoubleX" />
         <item itemvalue="Application.CountXX" />
         <item itemvalue="Application.FrontTimes" />
-        <item itemvalue="Application.Front11" />
       </list>
     </recent_temporary>
   </component>
