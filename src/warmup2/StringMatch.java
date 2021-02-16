@@ -18,13 +18,13 @@ public class StringMatch {
             if(aSub.equals(bSub)){
                 count++;
             }
-
         }
         return count;
-
-
     }
 
+    public static void main(String[] args) {
+        System.out.println(stringMatch("abcx", "xbacs"));
+    }
 
 }
 
