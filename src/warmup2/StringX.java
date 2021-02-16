@@ -20,7 +20,9 @@ public class StringX {
         return result;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(stringX("Hexlxlx0lx"));
+    }
 }
 
 /*
