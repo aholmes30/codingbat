@@ -19,7 +19,9 @@ public class StringYak {
         return result;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(stringYak("yakattackyakittyyak"));
+    }
 }
 
 /*
