@@ -17,7 +17,10 @@ public class Array123 {
         return false;
     }
 
-
+    public static void main(String[] args) {
+        int[] nums = {8, 1, 3, 2, 6};
+        System.out.println(array123(nums));
+    }
 }
 
 /*
