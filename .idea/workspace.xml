@@ -57,7 +57,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringYak">
+  <component name="RunManager" selected="Application.Array667">
     <configuration name="AltPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup2.AltPairs" />
       <module name="codingbat" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup2.Array123" />
+    <configuration name="Array667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup2.Array667" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array667" />
         <item itemvalue="Application.StringYak" />
         <item itemvalue="Application.AltPairs" />
         <item itemvalue="Application.StringX" />
         <item itemvalue="Application.StringMatch" />
-        <item itemvalue="Application.Array123" />
       </list>
     </recent_temporary>
   </component>

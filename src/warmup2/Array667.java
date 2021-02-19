@@ -16,6 +16,10 @@ public class Array667 {
         return count;
     }
 
+    public static void main(String[] args) {
+        int[] nums = {6, 8, 6, 4, 66, 3, 6};
+        System.out.println(array667(nums));
+    }
 
 }
 
