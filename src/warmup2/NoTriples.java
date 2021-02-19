@@ -16,7 +16,10 @@ public class NoTriples {
         return true;
     }
 
-
+    public static void main(String[] args) {
+        int[] nums = {3, 6, 7, 7, 7, 8, 9};
+        System.out.println(noTriples(nums));
+    }
 }
 
 /*
