@@ -23,6 +23,10 @@ public class DoubleChar {
 
     }
 
+    public static void main(String[] args) {
+        String str = "Hello There";
+        System.out.println(str);
+    }
 }
 
 /*
