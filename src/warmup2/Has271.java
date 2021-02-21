@@ -15,6 +15,11 @@ public class Has271 {
         }
         return false;
     }
+
+    public static void main(String[] args) {
+        int[] nums = {9, 7 , 9, 44, 3, 7, 2, 7, 1};
+        System.out.println(has271(nums));
+    }
 }
 
 /*

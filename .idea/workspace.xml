@@ -57,14 +57,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BiggerTwo">
-    <configuration name="AltPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup2.AltPairs" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Has271">
     <configuration name="Array667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup2.Array667" />
       <module name="codingbat" />
@@ -74,6 +67,13 @@
     </configuration>
     <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Has271" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup2.Has271" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Has271" />
         <item itemvalue="Application.BiggerTwo" />
         <item itemvalue="Application.NoTriples" />
         <item itemvalue="Application.Array667" />
         <item itemvalue="Application.StringYak" />
-        <item itemvalue="Application.AltPairs" />
       </list>
     </recent_temporary>
   </component>
