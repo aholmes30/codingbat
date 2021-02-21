@@ -59,16 +59,16 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleChar">
-    <configuration name="Array667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup2.Array667" />
+  <component name="RunManager" selected="Application.CountHi">
+    <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
+    <configuration name="CountHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.CountHi" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountHi" />
         <item itemvalue="Application.DoubleChar" />
         <item itemvalue="Application.Has271" />
         <item itemvalue="Application.BiggerTwo" />
         <item itemvalue="Application.NoTriples" />
-        <item itemvalue="Application.Array667" />
       </list>
     </recent_temporary>
   </component>

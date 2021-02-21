@@ -16,6 +16,10 @@ public class CountHi {
         return hiCount++;
     }
 
+    public static void main(String[] args) {
+        String str = "Hello, Hi, hi hi hi hi";
+        System.out.println(str);
+    }
 
 }
 
