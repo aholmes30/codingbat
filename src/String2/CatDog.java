@@ -21,6 +21,9 @@ public class CatDog {
         return false;
     }
 
+    public static void main(String[] args) {
+        System.out.println(catDog("catdog was a great show"));
+    }
 }
 
 /*
