@@ -57,16 +57,16 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatDog">
-    <configuration name="BiggerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1.BiggerTwo" />
+  <component name="RunManager" selected="Application.CountCode">
+    <configuration name="CatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.CatDog" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.CatDog" />
+    <configuration name="CountCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.CountCode" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountCode" />
         <item itemvalue="Application.CatDog" />
         <item itemvalue="Application.CountHi" />
         <item itemvalue="Application.DoubleChar" />
         <item itemvalue="Application.Has271" />
-        <item itemvalue="Application.BiggerTwo" />
       </list>
     </recent_temporary>
   </component>

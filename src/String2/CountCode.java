@@ -17,6 +17,9 @@ public class CountCode {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(countCode("codecodeCooodecote"));
+    }
 
 }
 
