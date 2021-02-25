@@ -22,8 +22,9 @@ public class XYZThere {
 
     }
 
-
-
+    public static void main(String[] args) {
+        System.out.println(xyzThere("therexyz"));
+    }
 }
 
 /*
