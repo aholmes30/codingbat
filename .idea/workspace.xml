@@ -57,7 +57,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountCode">
+  <component name="RunManager" selected="Application.EndOther">
     <configuration name="CatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.CatDog" />
       <module name="codingbat" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Has271" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup2.Has271" />
+    <configuration name="EndOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.EndOther" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EndOther" />
         <item itemvalue="Application.CountCode" />
         <item itemvalue="Application.CatDog" />
         <item itemvalue="Application.CountHi" />
         <item itemvalue="Application.DoubleChar" />
-        <item itemvalue="Application.Has271" />
       </list>
     </recent_temporary>
   </component>

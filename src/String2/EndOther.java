@@ -24,8 +24,9 @@ public class EndOther {
 
     }
 
-
-
+    public static void main(String[] args) {
+        System.out.println(endOther("Hi there friend", "hello therefriend"));
+    }
 }
 
 /*
