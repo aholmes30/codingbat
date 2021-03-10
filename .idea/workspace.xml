@@ -57,16 +57,9 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BobThere">
+  <component name="RunManager" selected="Application.XyBalance">
     <configuration name="BobThere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.BobThere" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.CatDog" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XyBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.XyBalance" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XyBalance" />
         <item itemvalue="Application.BobThere" />
         <item itemvalue="Application.XYZThere" />
         <item itemvalue="Application.EndOther" />
         <item itemvalue="Application.CountCode" />
-        <item itemvalue="Application.CatDog" />
       </list>
     </recent_temporary>
   </component>
