@@ -57,7 +57,14 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XYZThere">
+  <component name="RunManager" selected="Application.BobThere">
+    <configuration name="BobThere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.BobThere" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.CatDog" />
       <module name="codingbat" />
@@ -67,13 +74,6 @@
     </configuration>
     <configuration name="CountCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.CountCode" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.CountHi" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BobThere" />
         <item itemvalue="Application.XYZThere" />
         <item itemvalue="Application.EndOther" />
         <item itemvalue="Application.CountCode" />
         <item itemvalue="Application.CatDog" />
-        <item itemvalue="Application.CountHi" />
       </list>
     </recent_temporary>
   </component>

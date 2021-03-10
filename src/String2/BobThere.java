@@ -16,6 +16,10 @@ public class BobThere {
         return false;
     }
 
+    public static void main(String[] args) {
+        System.out.println(bobThere("bob the builder bob bob bob"));
+    }
+
 }
 
 /*
