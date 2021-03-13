@@ -15,6 +15,10 @@ public class RepeatFront {
         return total;
     }
 
+    public static void main(String[] args) {
+        System.out.println(repeatFront("kittyCat", 4));
+    }
+
 }
 
 /*
