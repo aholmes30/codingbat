@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="" />
+    <list default="true" id="6cb344e8-26ba-4ad8-9864-ae5c70221565" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/String2/RepeatEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/RepeatEnd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
