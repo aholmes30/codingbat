@@ -57,7 +57,7 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MixString">
+  <component name="RunManager" selected="Application.RepeatEnd">
     <configuration name="BobThere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.BobThere" />
       <module name="codingbat" />
@@ -65,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.EndOther" />
+    <configuration name="MixString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.MixString" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MixString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.MixString" />
+    <configuration name="RepeatEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.RepeatEnd" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatEnd" />
         <item itemvalue="Application.MixString" />
         <item itemvalue="Application.XyBalance" />
         <item itemvalue="Application.BobThere" />
         <item itemvalue="Application.XYZThere" />
-        <item itemvalue="Application.EndOther" />
       </list>
     </recent_temporary>
   </component>

@@ -19,7 +19,9 @@ public class RepeatEnd {
         return total;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(repeatEnd("doggo", 4));
+    }
 
 }
 
