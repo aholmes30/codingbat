@@ -27,7 +27,10 @@ public class MixString {
         return total + a.substring(x) + b.substring(x);
     }
 
-//  mixString("abc", "xyz") → "axbycz"
+    public static void main(String[] args) {
+        System.out.println(mixString("xxxx", "There"));
+
+    }
 
 
 }
