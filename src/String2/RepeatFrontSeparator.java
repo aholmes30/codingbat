@@ -23,6 +23,10 @@ public class RepeatFrontSeparator {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(repeatSeparator("hello", "F", 4));
+    }
+
 }
 
 /*
