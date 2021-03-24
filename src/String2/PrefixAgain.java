@@ -2,7 +2,7 @@ package String2;
 
 public class PrefixAgain {
 
-    public boolean prefixAgain(String str, int n) {
+    public static boolean prefixAgain(String str, int n) {
         //method name: prefixAgain
         //method type: 4 -> return data is boolean, params are str and int n
 
@@ -21,7 +21,9 @@ public class PrefixAgain {
         return false;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println(prefixAgain("catDog", 3));
+    }
 
 }
 

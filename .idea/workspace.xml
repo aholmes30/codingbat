@@ -57,9 +57,16 @@
       <recent name="warmup2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepeatFrontSeparator">
+  <component name="RunManager" selected="Application.PrefixAgain">
     <configuration name="MixString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.MixString" />
+      <module name="codingbat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrefixAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.PrefixAgain" />
       <module name="codingbat" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XyBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.XyBalance" />
-      <module name="codingbat" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrefixAgain" />
         <item itemvalue="Application.RepeatFrontSeparator" />
         <item itemvalue="Application.RepeatFront" />
         <item itemvalue="Application.RepeatEnd" />
         <item itemvalue="Application.MixString" />
-        <item itemvalue="Application.XyBalance" />
       </list>
     </recent_temporary>
   </component>
