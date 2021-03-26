@@ -21,6 +21,9 @@ public class XyzMiddle {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(xyzMiddle("AxyzBBB"));
+    }
 
 }
 
